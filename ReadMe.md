@@ -21,3 +21,4 @@ $ podman run --name vscodeTestFlask -t -v ./app:/app -p 9000:80 -d localhost/fla
 http://localhost:9000 にアクセス
 
 
+## コンテナの共有フォルダを使って新規アプリ開発
